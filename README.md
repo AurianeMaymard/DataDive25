@@ -8,6 +8,8 @@ Visit www.dc2.org/datadive for details on the challenge questions, suggested dat
 
 This repository includes an automated GitHub Pages deployment system for team projects. Each team can create their own folder in the `Team_Projects/` directory and add markdown files that will be automatically converted to HTML pages.
 
+You can visit the automated site to view participants projects at [https://datacommunitydc.github.io/DataDive25/](https://datacommunitydc.github.io/DataDive25/).
+
 ### How It Works
 
 1. **Team Setup**: Clone the `Team_Projects/SampleTeam` or create a new folder in `Team_Projects/` named after your team (e.g., `Team_Projects/MyAwesomeTeam/`)
